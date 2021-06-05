@@ -9,7 +9,7 @@ header{
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	line-height: 60px;
+	
 }
 
 h1, h2{
@@ -18,7 +18,8 @@ h1, h2{
 
 header h1{
 	color: white;
-	font-size: 60px;
+	font-size: 3rem;
+	line-height: 3rem;
 
 }
 
@@ -39,7 +40,7 @@ main img{
 }
 
 h2{
-	font-size: 30px;
+	font-size: 1.5rem;
 	color: #3CA6BC;
 	margin: 40px 0 10px;
 }
@@ -55,6 +56,7 @@ a:hover{
 
 footer{
 	background: #BC523C;
+	font-size: 30px;
 	text-align: center;
 	color: white;
 	padding: 20px;
@@ -62,6 +64,7 @@ footer{
 
 footer p{
 	margin: 0;
+	font-size: .5em;
 }
 
 footer a{
